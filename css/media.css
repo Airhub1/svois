@@ -1,0 +1,15 @@
+@media (max-width: 760px) {
+  .header-content {
+    max-width: 380px;
+    margin-top: 20px;
+    
+}
+#grid { 
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
+  grid-gap: 2vw;
+  }
+}
+
+
